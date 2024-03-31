@@ -1,0 +1,497 @@
+,RMSE,MAPE
+3M,2.37,1.05
+General Dynamics,2.53,0.98
+Union Pacific Corporation,2.69,1.17
+Public Service Enterprise Group,0.71,0.99
+Ford Motor Company,0.31,1.63
+ExxonMobil,1.41,1.31
+Exelon,0.59,1.27
+RTX Corporation,1.26,1.13
+Entergy,1.29,1.04
+Archer-Daniels-Midland,1.39,1.51
+Edison International,1.03,1.14
+Eaton Corporation,2.17,1.21
+DTE Energy,1.41,1.05
+S&P Global,4.71,1.22
+Schlumberger,1.05,1.67
+John Deere,5.6,1.46
+CVS Health,1.28,1.15
+CSX,0.42,1.39
+Southern Company,0.72,0.92
+Consolidated Edison,1,0.95
+ConocoPhillips,1.73,1.76
+Colgate-Palmolive,0.81,0.82
+Coca-Cola Company (The),0.56,0.78
+CMS Energy,0.67,0.93
+Chevron Corporation,2.18,1.29
+Caterpillar Inc.,3.34,1.41
+Boeing,4.94,1.53
+Campbell Soup Company,0.71,1.07
+General Electric,1.79,1.45
+General Mills,0.84,1.01
+Procter & Gamble,1.31,0.8
+Bristol Myers Squibb,0.94,1.06
+Halliburton,0.81,1.9
+Xcel Energy,0.76,0.99
+Northrop Grumman,5.92,1.12
+Norfolk Southern Railway,3.27,1.31
+Lockheed Martin,5.75,1.15
+Occidental Petroleum,1.31,1.86
+International Paper,0.76,1.32
+Marathon Oil,0.55,2.36
+Merck & Co.,1.06,0.98
+Kimberly-Clark,1.51,0.87
+Abbott,1.31,1.1
+Altria,0.71,0.98
+PepsiCo,1.55,0.84
+Pfizer,0.61,1.08
+Motorola Solutions,3.15,1.28
+Honeywell,2.29,0.98
+American Electric Power,0.99,0.94
+Hershey's,2.11,0.96
+PPG Industries,2.09,1.23
+Hartford (The),1,1.2
+IBM,1.97,1.03
+Kroger,0.7,1.28
+Sherwin-Williams,3.3,1.2
+Emerson Electric,1.4,1.36
+Cummins,3.16,1.25
+Clorox,2.41,1.08
+Newmont,1.02,1.78
+McDonald's,2.36,0.86
+Eli Lilly and Company,5.8,1.38
+Baxter International,1.04,1.27
+Becton Dickinson,3,1.01
+Johnson & Johnson,1.57,0.79
+Genuine Parts Company,2.02,1.19
+HP Inc.,0.64,1.77
+Williams Companies,0.71,1.56
+JPMorgan Chase,1.86,1.19
+International Flavors & Fragrances,2.22,1.33
+Cigna,4.01,1.36
+Duke Energy,1.07,0.92
+NextEra Energy,0.97,1.11
+Molson Coors Beverage Company,1.13,1.23
+American Express,3.3,1.64
+Wells Fargo,0.82,1.32
+Bank of America,0.56,1.44
+Walt Disney,2.12,1.19
+Intel,0.96,1.67
+Target Corporation,3.05,1.34
+Textron,1.1,1.4
+VF Corporation,1.64,2.96
+Weyerhaeuser,0.56,1.32
+Walgreens Boots Alliance,1.05,1.36
+American International Group,0.9,1.26
+FedEx,4.07,1.31
+Paccar,0.91,1.22
+Automatic Data Processing,2.64,1.08
+W. W. Grainger,7.72,1.23
+Masco,0.81,1.29
+Walmart,0.58,0.99
+Snap-on,3.43,1.27
+Stanley Black & Decker,2.47,1.41
+Apple Inc.,2.13,1.4
+Conagra Brands,0.51,1.07
+"Bath & Body Works, Inc.",1.13,1.93
+Verizon,0.58,0.88
+AT&T,0.3,1
+Lowe's,2.83,1.28
+PulteGroup,1.03,1.63
+Hess Corporation,2.24,2.02
+Hasbro,1.52,1.28
+Ball Corporation,1.13,1.31
+Air Products and Chemicals,3.72,1.1
+Nucor,2.72,1.84
+Revvity,2.19,1.34
+CenterPoint Energy,0.38,1.17
+TJX Companies,0.92,1.13
+Dover Corporation,1.74,1.18
+Parker Hannifin,4.57,1.34
+Illinois Tool Works,2.56,1.07
+Medtronic,1.29,1.02
+Sysco,1.2,1.16
+Marsh McLennan,1.56,0.92
+Avery Dennison,2.35,1.19
+Home Depot (The),3.97,1.12
+PNC Financial Services,2.72,1.39
+Citigroup,1.02,1.36
+"Nike, Inc.",1.97,1.31
+Ecolab,2.63,1.13
+Globe Life,1.33,1.08
+Oracle Corporation,1.47,1.27
+Kellanova,0.81,0.97
+Autodesk,4.57,1.76
+Ameren,0.89,0.95
+Amgen,3.22,1.12
+Linde plc,3.56,1.06
+Interpublic Group of Companies (The),0.61,1.55
+Morgan Stanley,1.29,1.48
+Costco,6.27,1.09
+Cisco,0.7,1.15
+Eastman Chemical Company,1.7,1.43
+KeyCorp,0.38,1.69
+Microsoft,4.17,1.43
+UnitedHealth Group,5.42,1.18
+Southwest Airlines,0.91,1.53
+Micron Technology,1.64,2.48
+Paramount Global,1.4,2.04
+Boston Scientific,0.6,1.21
+Corning Inc.,0.57,1.32
+Applied Materials,2.87,2.21
+Bank of New York Mellon,0.76,1.22
+Loews Corporation,0.79,1.17
+Darden Restaurants,2.34,1.42
+Allstate,1.9,1.26
+Comerica,1.47,1.72
+Fifth Third Bank,0.68,1.6
+Aon,3.45,1.09
+AutoZone,26.58,1.14
+Adobe Inc.,9.29,1.76
+Cardinal Health,1.18,1.24
+Charles Schwab Corporation,1.21,1.55
+Equifax,3.28,1.27
+APA Corporation,1.13,2.35
+Progressive Corporation,1.48,1.05
+Huntington Bancshares,0.25,1.45
+KLA Corporation,7.22,1.76
+Yum! Brands,1.35,1.02
+FirstEnergy,0.5,1.05
+Truist,0.89,1.45
+Cincinnati Financial,1.58,1.15
+Omnicom Group,1.33,1.28
+Northern Trust,1.64,1.32
+Franklin Templeton,0.61,1.45
+Marriott International,2.81,1.5
+Capital One,2.66,1.76
+Moody's Corporation,4.92,1.44
+Regions Financial Corporation,0.38,1.64
+Waste Management,1.53,0.9
+Paychex,1.49,1.1
+AES Corporation,0.41,1.58
+Danaher Corporation,2.96,1.12
+Carnival,0.81,2.18
+McKesson,3.83,1.2
+Aflac,0.91,1.19
+NetApp,1.59,1.77
+Best Buy,1.75,1.61
+Vulcan Materials Company,2.64,1.33
+Qualcomm,2.52,1.56
+Pinnacle West,1.04,1.04
+Analog Devices,2.47,1.44
+U.S. Bank,0.8,1.27
+Rockwell Automation,4.18,1.32
+Agilent Technologies,1.84,1.27
+Starbucks,1.43,1.21
+Devon Energy,1.25,2.32
+NiSource,0.35,1.05
+EOG Resources,2.25,1.79
+Robert Half,1.38,1.4
+Intuit,8.01,1.54
+MetLife,1.15,1.59
+Stryker Corporation,3.84,1.31
+Cintas,4.9,1.09
+Texas Instruments,2.37,1.33
+Fiserv,1.52,1.18
+Zimmer Biomet,1.92,1.1
+Cencora,1.77,1.13
+PPL Corporation,0.4,1.01
+Nvidia,7.95,2.9
+Equity Residential,1,1.09
+Waters Corporation,4.45,1.22
+Simon Property Group,2.45,1.32
+Goldman Sachs,4.94,1.32
+Electronic Arts,2.01,1.35
+Principal Financial Group,1.16,1.38
+Prudential Financial,1.68,1.37
+eBay,0.91,1.4
+United Parcel Service,3.09,1.36
+Elevance Health,5.95,1.34
+Travelers Companies (The),2.05,1.02
+Comcast,0.66,1.19
+Quest Diagnostics,1.62,1.03
+Valero Energy,2.26,1.82
+State Street Corporation,1.51,1.48
+McCormick & Company,1.05,0.99
+Gen Digital,0.51,1.38
+Prologis,1.75,1.28
+Biogen,8.07,1.6
+M&T Bank,2.88,1.44
+Viatris,0.85,1.82
+Gilead Sciences,1.25,1.13
+Thermo Fisher Scientific,6.9,1.21
+"Tapestry, Inc.",0.86,1.69
+LabCorp,2.75,1.15
+DR Horton,1.64,1.62
+Constellation Brands,3.06,1.09
+Tyson Foods,1.13,1.19
+Public Storage,4.2,1.16
+Ameriprise Financial,5.05,1.62
+Lennar,1.82,1.63
+Amazon,2.49,1.62
+Estée Lauder Companies (The),4.18,1.4
+Verisign,2.86,1.22
+Boston Properties,1.89,1.51
+Alphabet Inc. (Class C),1.89,1.47
+Kimco Realty,0.36,1.33
+Juniper Networks,0.5,1.22
+CME Group,2.63,1.11
+CBRE Group,1.31,1.48
+Fidelity National Information Services,2.17,1.67
+Cognizant,1.17,1.21
+AvalonBay Communities,2.66,1.09
+Ralph Lauren Corporation,2.64,1.66
+CH Robinson,1.46,1.14
+Host Hotels & Resorts,0.34,1.49
+Assurant,2.03,1.19
+Discover Financial,2.26,1.72
+Akamai,1.64,1.34
+Microchip Technology,1.41,1.75
+Intercontinental Exchange,1.3,1.03
+Expedia Group,3.19,1.7
+Expeditors International,1.39,1.08
+Jacobs Solutions,1.59,1.24
+American Tower,3.22,1.22
+Philip Morris International,1.3,1.02
+Healthpeak,0.48,1.27
+Intuitive Surgical,4.54,1.4
+Coterra,0.55,1.72
+Mastercard,5.27,1.34
+DaVita Inc.,1.81,1.36
+Invesco,0.53,1.75
+CF Industries,1.56,1.91
+Fastenal,0.65,1.15
+Salesforce,4.19,1.65
+L3Harris,2.92,1.17
+Pioneer Natural Resources,4.06,1.77
+Amphenol,0.92,1.13
+"Nasdaq, Inc.",0.66,1.06
+WEC Energy Group,1.03,0.98
+J.M. Smucker Company (The),1.8,1.04
+Wynn Resorts,3.02,2.16
+Dentsply Sirona,0.89,1.3
+Republic Services,1.31,0.92
+Iron Mountain,0.78,1.28
+Welltower,1.25,1.29
+Ventas,1.04,1.31
+Hormel Foods,0.62,1.1
+O'Reilly Auto Parts,8.32,1.11
+Quanta Services,2.25,1.52
+Western Digital,1.55,2.04
+Eversource,1.06,1.14
+FMC Corporation,1.65,1.53
+Booking Holdings,41.71,1.42
+Visa Inc.,2.78,1.16
+Ross Stores,1.96,1.44
+Roper Technologies,5.15,1.05
+NRG Energy,0.73,1.86
+ONEOK,1.08,1.67
+CarMax,2,1.67
+Chubb Limited,2.31,1.01
+Johnson Controls,0.92,1.31
+Trane Technologies,2.28,1.2
+"F5, Inc.",2.93,1.34
+Netflix,10.3,2.2
+Edwards Lifesciences,1.5,1.45
+BlackRock,10.96,1.37
+Chipotle Mexican Grill,24.47,1.5
+Marathon Petroleum,1.82,1.79
+Freeport-McMoRan,0.8,2.49
+Accenture,3.95,1.15
+Mosaic Company (The),1.03,2.01
+TE Connectivity,1.78,1.21
+Xylem Inc.,1.4,1.18
+BorgWarner,0.77,1.58
+Dollar Tree,2.6,1.41
+Crown Castle,2.41,1.33
+Phillips 66,1.81,1.52
+Kinder Morgan,0.37,1.38
+Monster Beverage,0.62,1.2
+Lam Research,11.64,2.05
+Seagate Technology,1.55,1.86
+LyondellBasell,1.75,1.47
+Pentair,0.92,1.35
+Mondelez International,0.68,0.93
+Dollar General,3.02,1.26
+Humana,7.55,1.45
+Garmin,1.53,1.19
+Aptiv,2.53,1.79
+AbbVie,1.72,1.18
+Regeneron,11.05,1.55
+General Motors,0.88,1.56
+Zoetis,2.24,1.21
+News Corp (Class A),0.33,1.35
+Delta Air Lines,0.92,1.63
+Ametek,1.44,1.06
+Vertex Pharmaceuticals,4.45,1.57
+Allegion,1.58,1.17
+Mohawk Industries,3.53,1.64
+Meta Platforms,5.8,1.7
+Tractor Supply,2.73,1.29
+Essex Property Trust,4.01,1.2
+Alphabet Inc. (Class A),1.87,1.46
+Broadcom Inc.,11.44,1.62
+Martin Marietta Materials,5.42,1.39
+Universal Health Services,2.57,1.43
+United Rentals,6.87,1.98
+Royal Caribbean Group,2.18,1.95
+HCA Healthcare,3.75,1.41
+Skyworks Solutions,2.64,1.79
+Henry Schein,1.07,1.14
+Equinix,11.27,1.41
+American Airlines Group,0.76,2.12
+Realty Income,0.85,1.07
+Qorvo,2.47,1.85
+WestRock,0.93,1.72
+J.B. Hunt,2.56,1.27
+Kraft Heinz,0.76,1.18
+PayPal,3.17,1.85
+United Airlines Holdings,1.36,1.89
+News Corp (Class B),0.34,1.37
+Verisk,2.32,1.04
+Hewlett Packard Enterprise,0.31,1.56
+Synchrony Financial,0.78,1.66
+Illumina,7.1,1.95
+Church & Dwight,0.96,0.93
+Willis Towers Watson,2.86,1.04
+Extra Space Storage,2.42,1.27
+Citizens Financial Group,0.85,1.82
+Federal Realty,1.8,1.15
+American Water Works,1.85,1.08
+"UDR, Inc.",0.65,1.18
+Centene Corporation,1.32,1.68
+Hologic,0.97,1.17
+Ulta Beauty,7.26,1.5
+Global Payments,2.87,1.65
+Digital Realty,2.22,1.39
+LKQ Corporation,1,1.71
+Arthur J. Gallagher & Co.,1.8,0.97
+TransDigm Group,9.78,1.31
+Alliant Energy,0.62,0.99
+Albemarle Corporation,4.85,2.08
+Fortive,1.09,1.24
+Mettler Toledo,18.25,1.29
+Charter Communications,8.63,1.52
+CooperCompanies,1.25,1.22
+Howmet Aerospace,0.78,1.76
+Dominion Energy,0.99,1.13
+Mid-America Apartment Communities,2.04,1.14
+Idexx Laboratories,7.73,1.5
+Incyte,2.04,1.69
+Cboe Global Markets,1.66,1.13
+Regency Centers,0.99,1.17
+Synopsys,5.49,1.38
+Sempra Energy,0.99,1.12
+Raymond James,1.54,1.47
+Alexandria Real Estate Equities,2.32,1.27
+Advanced Micro Devices,2.54,3.58
+Gartner,5.18,1.43
+Ansys,5.94,1.6
+Align Technology,10.13,2.05
+Hilton Worldwide,2.05,1.38
+Everest Re,4.44,1.14
+Baker Hughes,0.81,1.79
+A. O. Smith,0.99,1.28
+Packaging Corporation of America,1.96,1.26
+MGM Resorts,0.87,1.95
+ResMed,3.36,1.36
+IQVIA,3.08,1.29
+SBA Communications,4.92,1.57
+Cadence Design Systems,2.74,1.46
+Norwegian Cruise Line Holdings,0.92,2.3
+Huntington Ingalls Industries,3.19,1.19
+Take-Two Interactive,2.77,1.61
+MSCI,9.05,1.65
+Evergy,0.71,0.98
+Broadridge Financial Solutions,1.88,1.05
+Corpay,4.08,1.34
+Copart,0.44,1.29
+Arista Networks,2.79,1.8
+"Rollins, Inc.",0.52,1.15
+Fortinet,1.19,1.89
+Keysight,2.33,1.41
+Jack Henry & Associates,2.36,1.09
+Lamb Weston,1.39,1.3
+Diamondback Energy,2.89,2.13
+Celanese,2.17,1.44
+Teleflex,5.25,1.4
+Atmos Energy,1.35,1.07
+Wabtec,1.61,1.38
+Fox Corporation (Class A),0.95,1.98
+Fox Corporation (Class B),0.81,1.81
+Dow Inc.,1.24,1.75
+DuPont,1.34,1.31
+Corteva,4.36,7.48
+Amcor,0.15,0.85
+MarketAxess,6.99,1.55
+T-Mobile US,1.59,1.2
+T. Rowe Price,2.3,1.37
+IDEX Corporation,2.44,1.07
+Leidos,1.36,1.2
+CDW,2.32,1.28
+"NVR, Inc.",73.99,1.31
+Las Vegas Sands,1.21,1.79
+ServiceNow,10.36,1.95
+Berkley,0.74,1.06
+Old Dominion,2.7,1.62
+Zebra Technologies,7,1.94
+Live Nation Entertainment,1.74,1.63
+Steris,2.81,1.25
+Paycom,8.05,2.39
+Ingersoll Rand,0.94,1.63
+Carrier Global,0.97,1.61
+Otis Worldwide,1.25,1.24
+Dexcom,2.4,2.14
+Domino's,6.58,1.43
+West Pharmaceutical Services,5.42,1.35
+Teledyne Technologies,5.49,1.36
+Bio-Rad,9.34,1.48
+Tyler Technologies,6.31,1.38
+Teradyne,2.25,1.81
+Catalent,1.75,1.91
+Etsy,3.44,2.73
+Pool Corporation,6.18,1.35
+"Tesla, Inc.",9.23,3.52
+Enphase,6.98,5.92
+Trimble Inc.,1.14,1.58
+Monolithic Power Systems,10.8,2.12
+Caesars Entertainment,2.27,3.71
+Generac,6.04,2.09
+NXP Semiconductors,3.66,1.83
+PTC,2.12,1.45
+Charles River Laboratories,4.79,1.58
+Moderna,19.5,10.79
+Bio-Techne,1.55,1.48
+Brown & Brown,0.69,0.98
+Match Group,2.29,2.32
+Dayforce,2.11,2.29
+EPAM Systems,9.84,2.05
+FactSet,4.74,1.06
+Nordson Corporation,2.92,1.23
+Molina Healthcare,4.36,1.65
+Camden Property Trust,1.75,1.17
+Warner Bros. Discovery,0.88,2.17
+Vici Properties,0.56,1.47
+ON Semiconductor,1.54,2.28
+Keurig Dr Pepper,2.54,1.41
+CoStar Group,1.23,1.42
+Invitation Homes,0.48,1.07
+EQT,0.85,2.15
+PG&E Corporation,0.73,1.74
+Targa Resources,1.34,2.04
+Arch Capital Group,0.82,1.17
+First Solar,3.15,2.08
+Steel Dynamics,1.63,1.86
+Insulet,5.43,2.13
+Bunge Global SA,1.48,1.32
+Fair Isaac,10.76,1.56
+Axon Enterprise,3.36,2.2
+Palo Alto Networks,4.4,1.74
+Airbnb,7.16,5.17
+Lululemon Athletica,6.53,1.68
+Hubbell Incorporated,3.65,1.29
+Builders FirstSource,1.75,2.18
+Jabil,1.56,1.55
+Uber,1.7,2.83
+Deckers Brands,7.55,1.77
+Supermicro,12.27,2.43
